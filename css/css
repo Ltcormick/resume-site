@@ -1,0 +1,160 @@
+body
+    {
+    width: 100%;
+    height: 100%;
+    background-image:url(https://lh3.googleusercontent.com/Q0INNClYjN0wclelm7NwKK5ytYBpKK1VlYJskZRwV7IiIHtolovplinAFjVShIJQmqz_yHCvm9YJN-rHis1DbUfEV62IQkpkthomU3h-OXvN7AhoEW8Wt7JaVjJiOPTWlksxy3TlkQ=w2400);
+    background-size: cover;
+    background-attachment:fixed;
+    margin: 0;
+    padding: 0;
+    }
+
+.infobox{
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 20px;
+  color: #323232;
+  width: 700px;
+  height: auto;
+  margin: 10% auto;
+  padding: 10px;
+  background-color: #c5c5c5;
+  border: 1px solid #f5f5f5;
+  border-radius: 15px;
+  -webkit-box-shadow:  0px 0px 10px 0px #f5f5f5;
+  box-shadow:  0px 0px 10px 0px black;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 10px;
+  background-color: #c5c5c5;
+  border: 1px solid #f5f5f5;
+  border-radius: 15px;
+  -webkit-box-shadow:  0px 0px 10px 0px #f5f5f5;
+  box-shadow:  0px 0px 10px 0px #f5f5f5;
+  position: relative;
+  top: 50px;
+}
+
+
+.email{
+  display: block;
+  color: black;
+  font-size: 25px;
+  text-align:center;
+}
+
+.phone{
+  display: block;
+  color: black;
+  font-size: 25px;
+  text-align:center;
+}
+
+.campus{
+  display: block;
+  color: black;
+  font-size: 25px;
+  text-align:center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #111;
+}
+
+.infoboxsocial{
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 20px;
+  color: #323232;
+  width: 700px;
+  height: auto;
+  margin: 10% auto;
+  padding: 10px;
+  background-color: #c5c5c5;
+  border: 1px solid #f5f5f5;
+  border-radius: 15px;
+  -webkit-box-shadow:  0px 0px 10px 0px #f5f5f5;
+  box-shadow:  0px 0px 10px 0px black;
+  position:relative;
+  top: -250px;
+}
+
+.Education{
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 20px;
+  color: #323232;
+  width: 420px;
+  height: auto;
+  margin: 20px;
+  padding: 10px;
+  background-color: #c5c5c5;
+  border: 1px solid #f5f5f5;
+  border-radius: 15px;
+  -webkit-box-shadow:  0px 0px 10px 0px #f5f5f5;
+  box-shadow:  0px 0px 10px 0px black;
+}
+
+ .Jobs{
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+  width: 420px;
+  height: auto ;
+  margin: auto;
+  padding: 10px;
+  background-color: #c5c5c5;
+  border: 1px solid #f5f5f5;
+  border-radius: 15px;
+  -webkit-box-shadow:  0px 0px 10px 0px #f5f5f5;
+  box-shadow:  0px 0px 10px 0px black;
+  position:relative;
+  top:-212px;
+}
+     
+
+.skills{
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: #323232;
+  width: 420px;
+  height: 176px;
+  margin: auto;
+  padding: 10px;
+  background-color: #c5c5c5;
+  border: 1px solid #f5f5f5;
+  border-radius: 15px;
+  -webkit-box-shadow:  0px 0px 10px 0px #f5f5f5;
+  box-shadow:  0px 0px 10px 0px black;
+  position:relative;
+  right:-515px;
+  top:-409px;
+}
